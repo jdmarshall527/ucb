@@ -1,3 +1,4 @@
-# ucb
-financial engineering repository
-Planning on creating repository to store any projects I work on while completing my masters in financial engineering.
+# UCB
+**Financial Engineering Repository
+
+I created this repository to store any and all projects I work on while completing my masters in financial engineering at UC-Berkeley.
