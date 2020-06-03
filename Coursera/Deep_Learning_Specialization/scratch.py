@@ -5,6 +5,9 @@ from reader import MarksHdf5Reader
 import numpy as np
 
 
+'''
+Here I am just testing the class's functionality and improving the output.
+'''
 
 os.sys.path.append("C:/CCM_git/marks_hdf5/")
 
