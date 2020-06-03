@@ -44,7 +44,7 @@ testing_L_model_forward
 print(testing_L_model_forward)
 
 print(y_test.shape)
-print("\n\n\n TESTING THE ENTIRE NEURAL NETWORK MODEL!!!!!!!!")
+print("\n\n TESTING THE ENTIRE NEURAL NETWORK MODEL\n\n")
 
 test_fit = test_NN.run_neural_network_classification_model()
 print(type(test_fit), type(test_fit[0]), type(test_fit[1]), len(test_fit[0]), len(test_fit[1]), "Now the last 10 costs: \n", test_fit[1][90:99])
