@@ -1,4 +1,4 @@
-#Project Plagiarism
+# Project Plagiarism
 
 In this second project, I trained a classifier to detect various forms of plagiarism.  I also included the helpers.py file that helps parse the data, and the unittests.
 
