@@ -9,6 +9,7 @@ I am providing a high level summary of the project design in this readme.  For m
 In this project, I downloaded csv files from Kaggle that contained the number of confirmed cases across the world: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 
 This data was originally tabulated by Johns Hopkins and provided on their website: 
+
 https://coronavirus.jhu.edu/
 
 For reproducibility purposes, I have used the data available to me at this time, which spans from January 22,2020 until July 29, 2020.
