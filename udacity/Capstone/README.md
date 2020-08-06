@@ -26,6 +26,10 @@ To evaluate DeepAR's efficacy, I compared this estimator to two benchmark models
 - Capstone report - a write up of my project's methodologies and results.
 - Capstone final project - my code contained in a single python notebook.
 
+Here is the link for my proposal review:
+
+https://review.udacity.com/?utm_campaign=ret_000_auto_ndxxx_submission-reviewed&utm_source=blueshift&utm_medium=email&utm_content=reviewsapp-submission-reviewed&bsft_clkid=3871c483-7da4-4e54-816a-9e7497a03196&bsft_uid=52ffaf2f-4192-444c-b658-e9c5d780adec&bsft_mid=022b8772-0631-4d95-82c6-069f43bae583&bsft_eid=6f154690-7543-4582-9be7-e397af208dbd&bsft_txnid=20349de9-e9a5-464c-b470-7b0558f60cd9&bsft_mime_type=html&bsft_ek=2020-07-15T15%3A13%3A44Z#!/reviews/2429090
+
 **Python Libraries Needed**
 
 - math
