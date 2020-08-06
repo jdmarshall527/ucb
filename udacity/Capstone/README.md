@@ -13,7 +13,7 @@ For reproducibility purposes, I have used the data available to me at this time,
 
 
 After cleaning and preparing the data, I used Amazon Sagemaker's DeepAR to make projections for up to four days out for more than 250 distinct regions.
-To evaluate DeepAR's efficacy, I compared this estimator to two benchmark models: a "persistence" model and a linear regression.  The persistence model hypothesizes that today's observations are an appropriate estimate for tomorrow's observation.  And I structured the linear regression such that the expectation of tomorrow's observation is a linear combination of the prior day's value along with a unique binary variable encoding for each unique region.
+To evaluate DeepAR's efficacy, I compared this estimator to two benchmark models: a "persistence" model and a linear regression.  The persistence model hypothesizes that today's observations are an appropriate estimate for tomorrow's observation.  For the lunear regression, I structured it such that the expectation of tomorrow's observation is a linear combination of the prior day's value along with a unique binary variable encoding for each unique region.
 
 **Files**
 
